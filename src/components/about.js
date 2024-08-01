@@ -6,7 +6,7 @@ function About() {
     <div>
         <Header/>
         <h1>about</h1>
-        <p>This is sample React Router program.</p>
+        <p>This is a sample React Router program.</p>
     </div>
   )
 }
